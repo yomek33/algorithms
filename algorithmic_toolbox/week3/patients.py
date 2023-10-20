@@ -1,3 +1,5 @@
+# caluclate the minimum total waiting time for all patients
+
 import time
 # n = int(input())
 # t = list(map(int, input().split()))
