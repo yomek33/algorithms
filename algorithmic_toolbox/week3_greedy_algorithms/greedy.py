@@ -33,4 +33,4 @@ def MoneyChange(num, coins):
 
 
 print(MoneyChange(8,  [1, 4, 6]))
-# output: 6
+# output: 3
