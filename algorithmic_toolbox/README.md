@@ -43,5 +43,13 @@
   - 計算量は O(logN)
 
 - Multiply two polynominals
+
   - https://www.geeksforgeeks.org/multiply-two-polynomials-2/?ref=lbp
   - [カラツバ法](https://qiita.com/square1001/items/1aa12e04934b6e749962#3-2-%E7%94%BB%E6%9C%9F%E7%9A%84%E3%81%AA%E6%8E%9B%E3%81%91%E7%AE%97%E3%81%AE%E6%96%B9%E6%B3%95%E3%82%AB%E3%83%A9%E3%83%84%E3%83%90%E6%B3%95)
+
+- Sort
+  - Selction Sort O(n^2)
+  - Merge Sort O(nlogn)
+    - O(logn) : 再帰的に 2 分割
+    - O(n) : 各部分リストを独立にソート。各要素は 1 度だけ比較される
+  -
